@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = GLibrary::VERSION
   spec.authors       = ["Sergey Prokopchuk"]
   spec.email         = ["prokopchuksv21@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{This is a short summary}
+  spec.description   = %q{Ruby gem Library class}
   spec.homepage      = ""
   spec.license       = "MIT"
 
