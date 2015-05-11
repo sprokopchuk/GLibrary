@@ -1,21 +1,0 @@
-o:Library	:@books[o:	Book:@titleI"Practical OOD in Ruby:ET:@authorI"Sandi Metz;	To;;I"jQuery Pocket Reference;	T;
-I"David Flanagan;	To;;I"Agile Web Development;	T;
-I"Dave Thomas;	To;;I"1The Principles of Object-Oriented JavaScript;	T;
-I"Nicholas C. Zakas;	To;;I"#Professional Ajax, 2nd Edition;	T;
-I"Nicholas C. Zakas;	To;;I"/Professional JavaScript for Web Developers;	T;
-I"Nicholas C. Zakas;	T:@readers[	o:Reader
-:
-@nameI"Sergey;	T:@emailI"serega@gmail.com;	T:
-@cityI"Dnipropetrovsk;	T:@streetI"Kirova;	T:@houseI"88;	To;
-;I"Andrey;	T;I"andrey@gmail.com;	T;I"Dnipropetrovsk;	T;I"Plehanova;	T;I"104;	To;
-;I"	Kate;	T;I"kate@gmail.com;	T;I"	Kiev;	T;I"Visokovoltnaya;	T;I"14;	To;
-;I"
-Masha;	T;I"masha@gmail.com;	T;I"	Kiev;	T;I"Shevchenko;	T;I"14;	T:@orders[o:
-Order:
-@bookI"1The Principles of Object-Oriented JavaScript;	T:@readerI"Sergey;	T:
-@dateI"24-04-2015;	To;;I"1The Principles of Object-Oriented JavaScript;	T;I"	Kate;	T;I"24-04-2015;	To;;I"1The Principles of Object-Oriented JavaScript;	T;I"Andrey;	T;I"24-04-2015;	To;;I"1The Principles of Object-Oriented JavaScript;	T;I"Andrey;	T;I"24-04-2015;	To;;I"1The Principles of Object-Oriented JavaScript;	T;I"Sergey;	T;I"24-04-2015;	To;;I"1The Principles of Object-Oriented JavaScript;	T;I"Sergey;	T;I"24-04-2015;	To;;I"#Professional Ajax, 2nd Edition;	T;I"Andrey;	T;I"24-04-2015;	To;;I"#Professional Ajax, 2nd Edition;	T;I"Andrey;	T;I"24-04-2015;	To;;I"#Professional Ajax, 2nd Edition;	T;I"Andrey;	T;I"24-04-2015;	To;;I"/Professional JavaScript for Web Developers;	T;I"Andrey;	T;I"24-04-2015;	To;;I"/Professional JavaScript for Web Developers;	T;I"Andrey;	T;I"24-04-2015;	To;;I"/Professional JavaScript for Web Developers;	T;I"Andrey;	T;I"24-04-2015;	To;;I"/Professional JavaScript for Web Developers;	T;I"Andrey;	T;I"24-04-2015;	To;;I"/Professional JavaScript for Web Developers;	T;I"Andrey;	T;I"24-04-2015;	To;;I"jQuery Pocket Reference;	T;I"
-Masha;	T;I"24-04-2015;	To;;I"jQuery Pocket Reference;	T;I"
-Masha;	T;I"24-04-2015;	To;;I"jQuery Pocket Reference;	T;I"
-Masha;	T;I"24-04-2015;	To;;I"jQuery Pocket Reference;	T;I"Andrey;	T;I"24-04-2015;	To;;I"/Professional JavaScript for Web Developers;	T;I"
-Masha;	T;I"24-04-2015;	To;;I"/Professional JavaScript for Web Developers;	T;I"Sergey;	T;I"24-04-2015;	T:@authors[
-o:Author;I"Sandi Metz;	T:@biographyI"}I am a programmer. In the past 30+ years I have written innumerable applications, many of which are still running today.;	To;;I"David Flanagan;	T;I"David Flanagan is a computer programmer who has spent much of the last 20 years writing books about programming languages.;	To;;I"Dave Thomas;	T;I";I'm a programmer, and now I'm an accidental publisher.;	To;;I"Nicholas C. Zakas;	T;I"¯Nicholas C. Zakas is a front-end consultant who specializes in user interface design and implementation for web applications using JavaScript, Dynamic HTML, CSS, XML, and XSLT;	To;;I"Joe Dou;	T;I"I was born in 1867 ...;	T
