@@ -26,7 +26,7 @@ Or install it yourself as:
   lib = GLibrary::Library.new
 
   # Or load data from other file
-  lib = GLibrary::Library.new(f = data.dat)
+  lib = GLibrary::Library.new(f = 'data.dat')
 
   #New author
   a = GLlibrary::Author.new("Joe Dou", "I was born in 1888 ...")
@@ -47,7 +47,7 @@ Or install it yourself as:
   lib.save
 
   #or to other file
-  lib.save(f = data.dat)
+  lib.save(f = 'data.dat')
 
 ```
 
