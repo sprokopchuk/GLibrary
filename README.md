@@ -30,15 +30,23 @@ Or install it yourself as:
 
   #New author
   a = GLlibrary::Author.new("Joe Dou", "I was born in 1888 ...")
+  #New book
+  b = GLlibrary::Book.new("Damm thing", a)
 
   # Add new author to library or reject if it exist in library already
   lib << a
+
+  # Add book to the library
+  lib << b
+
+  # See all books in the library
+  lib.books
 
   # What is the most popular book
   lib.most_popular_book
 
   # Who often takes the book
-  lib.fan_book(lib.books[0])
+  lib.fan_book(b)
 
   # How many people ordered one of the three(or other amount) most popular books
   lib.num_readers_most_popular_books(num = 3)
